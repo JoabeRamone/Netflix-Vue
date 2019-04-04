@@ -1,0 +1,36 @@
+{
+  "categorias": [
+    {
+      "id":1,
+      "nome": "Ação",
+      "filmes": [
+        {
+          "id":1,
+          "nome": "Assasino Kleber",
+          "imagem": "https://ubistatic19-a.akamaihd.net/ubicomstatic/pt-br/global/search-thumbnail/search-thumbnail-image_750x422_uk_mobile_264170.jpg"
+        },
+        {
+          "id":2,
+          "nome": "Titainc",
+          "imagem": "https://queridojeito.com/wp-content/uploads/2017/01/Titanic-1.jpg"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "nome": "Comédia",
+      "filmes": [
+        {
+          "id":3,
+          "nome": "Jhony Enhlis",
+          "imagem": "https://images-na.ssl-images-amazon.com/images/I/51GBZEw-vuL._SY445_.jpg"
+        },
+        {
+          "id":4,
+          "nome": "DeadPool",
+          "imagem": ""
+        }
+      ]
+    }
+  ]
+}
