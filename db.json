@@ -1,36 +1,322 @@
 {
   "categorias": [
     {
-      "id":1,
-      "nome": "Ação",
+      "id": 1,
+      "nome": "Em Alta",
       "filmes": [
         {
-          "id":1,
-          "nome": "Assasino Kleber",
-          "imagem": "https://ubistatic19-a.akamaihd.net/ubicomstatic/pt-br/global/search-thumbnail/search-thumbnail-image_750x422_uk_mobile_264170.jpg"
+          "id": 1,
+          "nome": "Areia Movediça",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABRv1m48D4tE5NSFbbs0eEn_hJ1EWBj6g2tRCa8Z9jtTjOYTVepSUJTCBzMrPuMD7IasqgAuPuFMXzedoxH6aVzDi3omiR4Q5.jpg?r=7e9",
+          "trailler": "https://www.youtube.com/embed/2pA6gB7pO3Q"
         },
         {
-          "id":2,
-          "nome": "Titainc",
-          "imagem": "https://queridojeito.com/wp-content/uploads/2017/01/Titanic-1.jpg"
+          "id": 2,
+          "nome": "O mundo Sombrio de Sabrina",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABW1kPlLXHHwfLwL7O3_92yA2E0SmpEA17GakHjyV-sur0Op-Excuz0c7gikgGRlkZ6qqSI7uQaGDjWD46p0SFtRl9NwTroHzSUGAyo1lT7pqN4jzh1kJ2eY3jiE-Ev9XUg.jpg?r=91d",
+          "trailler": "https://www.youtube.com/embed/c1N3tpnmy-c"
+        },
+        {
+          "id": 3,
+          "nome": "O Date Perfeito",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABQTyZHcQePyoeF55KiM4pfD7_k2Yl1RKVFLdQpmjoAhXg3nnSJoam390PHuphg0E8UH_nrVos0hqYKJOQPhzZ-7w2igLR3TW.jpg?r=ae5",
+          "trailler": "https://www.youtube.com/embed/r4PiUSYn-D0"
+        },
+        {
+          "id": 4,
+          "nome": "Estrada Sem Lei",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABaxzIu8clPKz_z29hpiktQe02pyKDul97DvAcVtTpCzZSGQzmWnrzSzez69lPQZ6RTB01o1LTT3licwmNwLdWEy3zVvzDHOj.jpg?r=d3a",
+          "trailler": "https://www.youtube.com/embed/A4MsX7w2_j8"
+        },
+        {
+          "id": 5,
+          "nome": "The OA",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABSEswYpwAUVqU0QgvMCalAIHT5kc-oySwOxcXUD5l5QOTUqMkHFedT7N2szss_PXjNBGdjhhpfKK15JIADw1bNNZ7QkzCmf-.jpg?r=f42",
+          "trailler": "https://www.youtube.com/embed/L3wNQH-DfrY"
+        },
+        {
+          "id": 6,
+          "nome": "O Sabor das Margaridas",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABQIuOLQyN3zmvFIPxI964EiSJQFa0ddg8bt8CT0FMPPM8nO4EIKAnKJCk6uAQ9ZkyS2IwlpLohNdGbErnJe1ZOfXWd6SbI62.jpg?r=821",
+          "trailler": "https://www.youtube.com/embed/JSazlXNUr58"
+        },
+        {
+          "id": 7,
+          "nome": "O Sucessor",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABX1SvTHNEmnE6pIEfx5vaO4IzL5ykREYTPLtfRGoT0p9B2w5_hIqC838OHi2ErvN0fcXJD-cpqLMw-MUZJ5fLOx96-41XxQf.jpg?r=5bc",
+          "trailler": "https://www.youtube.com/embed/lMXz6dDcXns"
+        },
+        {
+          "id": 8,
+          "nome": "Se eu não tivesse te conhecido",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABRO5X5EutjdEKtDB6UOzMJPEZLXQu-xftBeHLCEnnhAs1vevT3V3Fr_Um66QIDVcp85VAvSp4pcySbBp7hRmR0MBwdjiaI8S.jpg?r=e95",
+          "trailler": "https://www.youtube.com/embed/91aemPktRKM"
+        },
+        {
+          "id": 9,
+          "nome": "Black Summer",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABUX4teXov8yiMMC-wSVY6UetLLb73BkJZ0PIDigwGsjPI8tGkwpPr4r2Txqvprt7cKCc7-UuXUqG8-m3j6PqZn_-s0VSighp.jpg?r=c59",
+          "trailler": "https://www.youtube.com/embed/8II9XeARcLQ"
+        },
+        {
+          "id": 10,
+          "nome": "Carlo e Malik",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABRrZKRUQXZWaLUBjy2ZHunv3mNdKzVrTzwy1lHLVpnIZu8wstE-Lq3F7g0hvwBj3HMlFFnh4Tea48u8Vetb8IPSALpCSlYLK.jpg?r=fe4",
+          "trailler": "https://www.youtube.com/embed/HiUBzXjJEOc"
+        },
+        {
+          "id": 11,
+          "nome": "Quem você levaria para um ilha deserta?",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABSEKBCU0GBbHWaEK1X4gzI19Tb2LrmoyzqrgjA-IQb9Fh_d_ZZxmt-25gPYry_siYJKd-RsLbix3loLmvLZVSD-xMy2p1bJs.jpg?r=01f",
+          "trailler": "https://www.youtube.com/embed/m8cE7qHxv5g"
+        },
+        {
+          "id": 12,
+          "nome": "Bloodline",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABYv2SzLicISNR_R5d8oG6AlvU1Sq2eUFtvbKPcQYlZFN8TxftnKCpSlt_P06taPUSdLjTJn5hoVdAtEkBCcDeH9swqoADQL5.jpg?r=4f8",
+          "trailler": "https://www.youtube.com/embed/2pU0DrWydFU"
         }
       ]
     },
     {
-      "id":2,
-      "nome": "Comédia",
+      "id": 2,
+      "nome": "Lançamentos",
       "filmes": [
         {
-          "id":3,
-          "nome": "Jhony Enhlis",
-          "imagem": "https://images-na.ssl-images-amazon.com/images/I/51GBZEw-vuL._SY445_.jpg"
+          "id": 13,
+          "nome": "The Silence",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABYkCWhtt0KaCTg_5lHN0_hqlQzwD5dZ1ys-R81pX0N6Y8YHYBK0qeh0Yj39WAxOrq7tRQrCzMj51e8oPhq22e4ksRmabe2VO.jpg?r=49f",
+          "trailler": "https://www.youtube.com/embed/i_JtFmjmd40"
         },
         {
-          "id":4,
-          "nome": "DeadPool",
-          "imagem": ""
+          "id": 14,
+          "nome": "After Life - Vocês vão ter de me engolir",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABVuK02NHBITTbS3brSVCmvJHw1lcYAcT8-ZyJIx3zQNzbMUGd-Wd7JDcWVRjBIYr5l-fBXr5XracAlUlk4-oK4kxcHwtyIkX.jpg?r=6c2",
+          "trailler": "https://www.youtube.com/embed/TmNZGJwKFJU"
+        },
+        {
+          "id": 15,
+          "nome": "Operaçãoo Fronteira",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABX-jxAwbogSB7ZumbFT8CRrFjwJiBdpuA6gY198PDr5YnhZKWVgOWZyWn1VpvMuWWjuY6BRcYEh0xi8fd3giFjbQlxkbw50I.jpg?r=692",
+          "trailler": "https://www.youtube.com/embed/fqDhMNE_ifo"
+        },
+        {
+          "id": 16,
+          "nome": "Megarromântico",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABbAA8BfG0pjYkDcqTXdihN8OuLCuA-GnwhsKgMCMCD7fRWN9uAq_OY3hYzyH3_naljWyb9Hva-dgSOCCHC6Jbf8XIDCZSN0e.jpg?r=763",
+          "trailler": "https://www.youtube.com/embed/7-W810eElfQ"
+        },
+        {
+          "id": 17,
+          "nome": "A ordem",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABdAV010sPUhmU-b-1Pmqu1FTIXbcKfL0FZp5zc43AntkfWuCGKXt63UF2VThd-xeDCrXc9sNvQtQkVlbLryo2gCLIDXv9imr.jpg?r=401",
+          "trailler": "https://www.youtube.com/embed/s7ZnrtiqGdw"
+        },
+        {
+          "id": 18,
+          "nome": "Manto & Adaga",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABdAUeqo5q7WqDHHfbvkfALmxh1tq5UU0BiRa5dZcQbqYtILvRWGQkvJW7qrQqZw-7LV9cCTiLf4zBiyrdiDjT0vb0Yf41ygL.webp?r=bfe",
+          "trailler": "https://www.youtube.com/embed/M68txWYXnX8"
+        },
+        {
+          "id": 19,
+          "nome": "Alguém Especial",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABUNmQFKCRvb7482JqqmbFnSE4Z2H31ZxiPtcPaMtBW3BkApXhyDaaV0_d0XH2QHdrb01EH7rxDo-DjcYAhlutiYcEqnTdKdB.jpg?r=965",
+          "trailler": "https://www.youtube.com/embed/PJ56g0R-nn4"
+        },
+        {
+          "id": 20,
+          "nome": "Boneca Russa",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABTf_A3eK2SPBXPUex7J7GVlEMudsHTlLFmruJAuuBvIpaAjRElbOOG9AJQ9jfu7M2pIT9vJZmABPMnHpFlU4YHiwnmD7qjwu.jpg?r=255",
+          "trailler": "https://www.youtube.com/embed/VLLURVPVcnI"
+        },
+        {
+          "id": 21,
+          "nome": "O Fotógrafo de Mauthausan",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABTb0No9FzEsFcOrTHvEjJy-HXW6qA-N_OnNutH3WIZ37qNynN9yIP6TIoSQPsGYzKxQcWEjVTRYsuH-HlNcK5BCJ5iEh3FXL.jpg?r=253",
+          "trailler": "https://www.youtube.com/embed/nJkCKRXkjeY"
+        },
+        {
+          "id": 22,
+          "nome": "Um homem de Sorte",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABTtGKnlIYeXmzI_Ne4a4DqrNT7veffLXEjw8Tc6wjMakgaupa6SkRGN9Q-ektAOwWFO5QcnjUQ3maVziFdnRjLDUwk_Mzzij.jpg?r=6c0",
+          "trailler": "https://www.youtube.com/embed/ooueMWllWt4"
+        },
+        {
+          "id": 23,
+          "nome": "Deadwind",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABfnEE1AWS9jBguHWD0nzmr4ks6Tlx96QZtWzggDSrD0SjLyNYYprE3CS0zZaOaxNPksP1kfJ_kvEwloxrOpfmOHK0dHVvIwb.jpg?r=5b9",
+          "trailler": "https://www.youtube.com/watch?v=X8lDhDsRVNo"
+        },
+        {
+          "id": 24,
+          "nome": "Segurança em jogo",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABYg85iK-YV8PmPLi4Hj4XTXCCYi2MWmCVHacD9_glbgCK5Xie-QIIRerQ0WrYPzO2EdNjyocNqmf0IC00eoqQoVOWhOqFack.jpg?r=743",
+          "trailler": "https://www.youtube.com/embed/BNfl7KYH2GE"
+        },
+        {
+          "id": 25,
+          "nome": "Loja de Unicórnios",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABWGoD0hPlutAia7Z7Pi5vZruNeR1mbyeZXwkAe-kWrMWSZEX5k8ot70KncM-fXLsb2EQ4ve1RRDM34ob8Y9WekCrn1VbEeA5.jpg?r=cb8",
+          "trailler": "https://www.youtube.com/embed/TzAThtzftio"
+        },
+        {
+          "id": 26,
+          "nome": "O perfume",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABYNg9_yO5mUbpAxzMO_623nUUVi6o5jixg8UMKeKRcHFRAK5UGoC6Q6RfM0GEXRtcUd6FE8oIcPTIIj1BujniLykSHkqxuUA.jpg?r=69c",
+          "trailler": "https://www.youtube.com/embed/LuNPL3sbV28"
         }
       ]
+    },
+    {
+      "id": 3,
+      "nome": "Series",
+      "filmes": [
+        {
+          "id": 27,
+          "nome": "Santa Clarita Diet",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABXeoHgwiNql1ikbLcWQVvMCe_WgQ9WqnMBDXzYJe_fQWn1XxRZLnInjEymTtIEeRoELK0Ztri6uYHtFiD7Z3wXzkvrgOCvvb5Oqlai4V547xtMGjSOn0mtHvUAvHYIhjWA.jpg?r=04e",
+          "trailler": "https://www.youtube.com/embed/JMjO5kfcHhw"
+        },
+        {
+          "id": 28,
+          "nome": "Black Mirror",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABWr8k3hfR9ydUo59fM3wMfIKI-N7C_gr-Yssl_HtVgb6oN9pwzhOs10bMdRjy1SQbbnHzN6RJl134lhtiZwKmPMOWqgZsyb1.jpg?r=f83",
+          "trailler": "https://www.youtube.com/embed/wCajjsrxhUs"
+        },
+        {
+          "id": 29,
+          "nome": "Dirty John - O Golpe do amor",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABWjT9GQ6XZLSF-2hvQ6luWYJa1Bt_5lUVtbHP6m85UDYz4EZ4tZizS9VwKrifgRxMXsaIJXcr0ftaHwmIo7PWxdfiMQmm8XY.jpg?r=836",
+          "trailler": "https://www.youtube.com/embed/XxwecrgLsUY"
+        },
+        {
+          "id": 30,
+          "nome": "Você radical",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABUIDFvcgoIJzgDgj9AuuTxztWmK7WV-DMsb4GKs_m-rolLUQwLQiI89ydq-cLvkFYq6HCrcOkeZcv5HT9PrrfmZrMgxilnkQwMOx-pFMPjJRRmuR35HIXR3nqGuop5TIc0qnAZdOsWowvLY6se1L.jpg?r=926",
+          "trailler": "https://www.youtube.com/embed/0tEFmeOrPlQ"
+        },
+        {
+          "id": 31,
+          "nome": "Traidores",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABfdn-9Siro7CD2Wx3GK5AkSl2HoEZztqW0K7XZUKy-heO4S33-RZua0aUv-DEE03760B4Ce6Xn55fxDqym_UPenv8EBdWu6n.jpg?r=0e6",
+          "trailler": "https://www.youtube.com/embed/yMsQ3vrEPn4"
+        },
+        {
+          "id": 32,
+          "nome": "Sex Education",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABfIOrmelUaa_G-s32qIoYX8agzGq_iMJfHg94PuFAOGEGJPQyeFSTlw8SKCIXvjqVr6Ma9Lfrhj6eZBq9bO3JmtMaMwfKCdT.jpg?r=532",
+          "trailler": "https://www.youtube.com/embed/46DLtYfJ6WI"
+        },
+        {
+          "id": 33,
+          "nome": "Arrsted Development",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABVyIiofwedIoDDtX_L5sfEYb7HCxaVv_xLdwm2dNLz2v0yp6T9-boPDE6zOGcfm8NCLxnKPRa6XsXADS6L2oDxK03nAUJpwq.jpg?r=b11",
+          "trailler": "https://www.youtube.com/embed/YARbEnG3Jas"
+        },
+        {
+          "id": 34,
+          "nome": "Designated Survivor",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABXvOnEdsHjNGdQ8LGYLQFiSZAjUR02hcah8wkwb3CN-9D6ViFxdqs4Ddr75LCSFvhRgHIST58sX9OTP4x0rujoUIscVgq5QR.jpg?r=68c",
+          "trailler": "https://www.youtube.com/embed/SMJPplfcqeE"
+        },
+        {
+          "id": 35,
+          "nome": "Shadowhunters: The Mortal Instruments",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABZnElOV_7-_NvwNOMvTGNqKvsnB8gz98LHzANypGZXcQ0ZeVt-vZ6VAN81YW7OgcjlxBvmBA38H_Ln3Hl5RtywDnjl7vjXjet0IMpNVnn7PqnwglpEL3Ih4p1AbrifW1kw.jpg?r=9aa",
+          "trailler": "https://www.youtube.com/embed/oHEz1oT01tg"
+        },
+        {
+          "id": 36,
+          "nome": "O Desaparecimento de Madeleine McCann",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABemc2cukaf-VdSwVJnAPBiqH1Yq-ndm3cM3MWjW_ewz_xhlw5LdYlSmVOSxrQjinp1HryEfthFBj2-hrnxj0Y5BzLGmCU7HC.jpg?r=1c0",
+          "trailler": "https://www.youtube.com/embed/zIB3cijyiXU"
+        },
+        {
+          "id": 37,
+          "nome": "A Louva-A-Deus",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABXNa7pIwrS8rSRVawwg88UG55zJQBqVEfNekdEqOykG1ytN4AY54u5FQKdarjM4EP6mwnpGGQZ3_09rQ-TDHQZw_V8uY-OB-.jpg?r=701",
+          "trailler": "https://www.youtube.com/embed/wnohwMEI_RM"
+        },
+        {
+          "id": 38,
+          "nome": "Special",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABVyC29pD-mLV1wrl1jhD1AjRm114kHPtunE8qGiPx4Gb5cKgAU04Ol6BueXY6HosZvWxjmfDMtxvKch7H_7SQhgvO8Tql8x0.jpg?r=fde",
+          "trailler": "https://www.youtube.com/embed/p4o5qjEDYWo"
+        },
+        {
+          "id": 39,
+          "nome": "Star Trek",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABb_OYrd1yg1m5Hb-mKkQq3E0GvrPz-1cFsjvTcjhRINKn50e-z3QPPiQuaG_H0TC1-9BcBo_oXwJarcjhwEtUfxDycRXnj1XpyfOG-BwwQHaYalL1De0b595rn2dod25Lg.jpg?r=d18",
+          "trailler": "https://www.youtube.com/embed/FK4BKqN_ba8"
+        },
+        {
+          "id": 40,
+          "nome": "Ozark",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABYcvWmplRaadZT_l1Z8iYCTcOGDI9J9G3U1LypqmDZBdv_so1-YxTQ-i68wbxP1QXxrzFCK14_-pnZld3KCjDBoAD45vVKPH.jpg?r=9aa",
+          "trailler": "https://www.youtube.com/embed/a77xCR4W6MM"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Séries de mistério dignas de maratona",
+      "filmes": [
+        {
+          "id": 41,
+          "nome": "The Sinner",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABbP_LxN8u2zz95Qyp12Zwj0WqVjl9JHL02UW1m32Bk9WAq-Jws06fzjP5VcoblqgGRAuaA_fJrOY0y5DrZy6bu_dm8VJZWKx.jpg?r=03f",
+          "trailler": "https://www.youtube.com/embed/E5Xd805YEio"
+        },
+        {
+          "id": 42,
+          "nome": "Maldição da Residência Hill",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABcMa2r1GLK4Me2yokSwlO2nPlcKr7KOgkQhbGmm_sofmfz7vAwdpNtJwgOBrzcfajenlYXD-p0BCK_iiz4PWmF8RAVnlf8cX.jpg?r=e4a",
+          "trailler": "https://www.youtube.com/embed/di2hosfnjnE"
+        },
+        {
+          "id": 43,
+          "nome": "Hemlock Grove",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABZEdtpcqczCdJsm_7MWmpvJx-SIoMNZfoLzXpE4hohiW6gIcz8k3XY_FJm14Vbh5jK_dZ8aHRoXRFxBo6CEXvQ0JCRvPTVHy.jpg?r=a87",
+          "trailler": "https://www.youtube.com/embed/rlZUsPcChgI"
+        },
+        {
+          "id": 44,
+          "nome": "13 Reasons Why",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABehHGNuEwnTNNWH9WHzKb84i9AVH81T6e73VE_Rp4LKMgSsRhnoBMu4abs_3tMec7jjP0d9x7WVR1FJLDR_9xvolsI4SJQMk.jpg?r=07a",
+          "trailler": "https://www.youtube.com/embed/p3Q1IjfBIm0"
+        },
+        {
+          "id": 45,
+          "nome": "Scream",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABSL2_74M5rIOw5G1TrKcakb0oUjEhN9tTVnuvLREREV7ZE5AtkFYkt-DhOgcOQYXA2rcn9LY5owH6xrDAodkasrXyLbqx_sd.jpg?r=2be",
+          "trailler": "https://www.youtube.com/embed/k60frrjtMYc"
+        },
+        {
+          "id": 46,
+          "nome": "The Staircase",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABcYzvaDf7c3Wal6G7-pcinlrt9pOmGWQl5RiSE-UqZUBYqSSIxqZaIHjRwVc_OQf0rxlOkQI-6Z-dpp8-A_YG0y2sfLLxUp7.jpg?r=7f3",
+          "trailler": "https://www.youtube.com/embed/Bvv97sCcruY"
+        },
+        {
+          "id": 47,
+          "nome": "Gênio Diabólico",
+          "imagem": "https://occ-0-3697-1740.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABZrHyA_7zs-eadDCARS5TtcxLD4mny0TNeMPbD3dnS1exnWnL2oSm_7rhlZrzUuX873wgVmvWf46lBZBmDBROxXNiMLsDMzF.jpg?r=ece",
+          "trailler": "https://www.youtube.com/embed/Qpdb9zo_1t8"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "email": "jorge@gmail.com",
+      "senha": "123",
+      "id": 1
+    },
+    {
+      "email": "joab@gmail.com",
+      "senha": "123",
+      "id": 2
     }
   ]
 }

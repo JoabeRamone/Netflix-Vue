@@ -5,11 +5,13 @@ Vue.use(Router);
 
 import App from '../App'
 import Login from '../Componente/Login'
-
+import Cadastro from '../Componente/Cadastro'
 
 export default new Router({
   routes: [
+    {path: '/', component: Login},
     {path: '/filmes', component: App},
-    {path: '/', component: Login}
+    {path: '/cadastro', component: Cadastro}
+
   ]
 })
